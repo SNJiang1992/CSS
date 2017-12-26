@@ -46,3 +46,4 @@ Carousel.prototype = {
     }
 }
 var carousel = new Carousel($('.carousel'));
+
